@@ -1,1 +1,2 @@
 # HotelRESTClient
+HotelRESTClient: Un programme Java (Spring Boot) d'agence de voyage qui utilise une interface de ligne de commande (CLI), une API REST et des collections. Cette application permettra aux agences de voyages de s'inscrire, de se connecter, de faire des réservations d'hôtel et d'accéder aux données des hôtels via le "système de gestion de base de données relationnelle H2".
